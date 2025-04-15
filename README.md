@@ -1,2 +1,2 @@
-# Exercios-Faculdade
+# Exercícios-Faculdade
 Aqui guardo atividades práticas, realizadas na faculdade.
